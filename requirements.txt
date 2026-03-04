@@ -3,6 +3,6 @@ pandas
 numpy
 scikit-learn
 joblib
-tensorflow
 fastapi
 uvicorn
+tensorflow==2.15.0
